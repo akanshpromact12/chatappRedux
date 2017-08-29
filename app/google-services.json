@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "20083807453",
+    "firebase_url": "https://reduxchatapp-cfd81.firebaseio.com",
+    "project_id": "reduxchatapp-cfd81",
+    "storage_bucket": "reduxchatapp-cfd81.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20083807453:android:bc44c9721a05ffe5",
+        "android_client_info": {
+          "package_name": "com.promact.akansh.reduxchatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "20083807453-ngfvgt7vgiv85onv4nd6n2p4h1m5vtqb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_hHRXdIVzvkiebUohpTdaht1D-h9nAqA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
